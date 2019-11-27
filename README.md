@@ -14,7 +14,6 @@ and is one of the final projects for the class_
 >In more detail, Table A corresponds to:
 > 1. probability 0.9 to be found from state a to state a and state b to state b
 > 2. probability 0.1 to be found from state a to b and from state b to a.
-
 >Table π corresponds to:<br>
 >Initial probability 0.5 to be first in state a, and 0.5 to be first in state b.<br>
 >Finally, our model is described by the last figure that matches the shape of the book, adding the 0.5, 0.5 probabilities we have described above.<br>
